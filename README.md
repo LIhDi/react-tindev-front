@@ -56,7 +56,7 @@ yarn start
 
 ## Contribuição
 
-1. Faça o _fork_ do projeto (`https://github.com/LihDi/nodejs-tindev-back/fork`)
+1. Faça o _fork_ do projeto (`https://github.com/LihDi/react-tindev-frontend/fork`)
 2. Crie um _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Adicione suas mudanças (`git add .`)
 4. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
